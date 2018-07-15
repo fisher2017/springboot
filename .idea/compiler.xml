@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
         <module name="helloworld" />
         <module name="mybatis" />
       </profile>
